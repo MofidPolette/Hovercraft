@@ -7,3 +7,5 @@ Annexe 3 ; https://youtu.be/USGgpJiQXoo
 Annexe 4 ; https://youtu.be/VPRgdAAVYVI
 
 Annexe 5 ; https://youtu.be/gVehf0gLDuw
+
+Pignon ; https://youtu.be/8QPDgNjMvSI
