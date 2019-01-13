@@ -9,3 +9,7 @@ Annexe 4 ; https://youtu.be/VPRgdAAVYVI
 Annexe 5 ; https://youtu.be/gVehf0gLDuw
 
 Pignon ; https://youtu.be/8QPDgNjMvSI
+
+Découpe du pignon ; https://youtu.be/KOdOfdhXKKc
+
+Découpe de la crémaillère ; https://youtu.be/jwDR_V_TfrE
