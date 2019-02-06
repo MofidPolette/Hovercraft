@@ -15,3 +15,5 @@ Découpe du pignon ; https://youtu.be/KOdOfdhXKKc
 Découpe de la crémaillère ; https://youtu.be/jwDR_V_TfrE
 
 Servo-BlueT ; https://youtu.be/dNDl7t-wkcQ
+
+Boite ; https://youtu.be/01u3eDXAoCc
