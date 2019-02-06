@@ -13,3 +13,5 @@ Pignon ; https://youtu.be/8QPDgNjMvSI
 Découpe du pignon ; https://youtu.be/KOdOfdhXKKc
 
 Découpe de la crémaillère ; https://youtu.be/jwDR_V_TfrE
+
+Servo-BlueT ; https://youtu.be/dNDl7t-wkcQ
