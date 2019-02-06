@@ -36,7 +36,7 @@ void loop() {
   
   anc_pos=positionduServo; // récupère l'ancienne position du servo
   Data=BlueT.read();
-  if(Data=='D'){
+  if(Data=='d'){
     // change la position du servomoteur à l'aide d'un bouton, le bouton est 
     // programmé pour aller de l'ancienne position à un angle de 35
     // permettant au bateau de tourner à droite
