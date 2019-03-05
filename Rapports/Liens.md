@@ -25,3 +25,10 @@ Crémaillère ; https://youtu.be/dZPBzIAOk_8
 Servomoteur ; https://youtu.be/s0gHOtoGXEI
 
 Brushless ; https://youtu.be/fQYtmKaNbdo
+
+Test Hydroglisseur ; https://youtu.be/Aa5Hlb70eHY
+
+Amélioration gouvernail ; https://youtu.be/KcasSY0N2hw
+
+Amélioration moteur pp ; https://youtu.be/WnuH5ROWdiE
+
