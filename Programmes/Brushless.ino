@@ -1,3 +1,5 @@
+//Fait fonctionner le moteur brushless par Bluetooth
+
 #include <Servo.h>
 #include <SoftwareSerial.h>
 #define RX 10
@@ -32,17 +34,12 @@ void setup() {
    }
  
 void loop() {
-   /*if (Serial.available() > 0) {
-      val = Serial.parseInt();   // lecture de la valeur passée par le port série
-      Serial.println(val);
-      esc.write(val);            // 
-      delay(15);
-      }*/
+
     Data=BlueT.read();
-    if (Data=='M'){
-      val = BlueT.parseInt();
-      Serial.println(val);
-      esc.write(val);
+    if (Data=='M'){ // correspond à un slider sur l'application 
+      val = BlueT.parseInt(); // récupère la valeur envoyée par le slider 
+      Serial.println(val); // l'affiche sur le moniteur série
+      esc.write(val);// l'envoie à l'esc
       delay(15);
       Data=BlueT.read();
     }
