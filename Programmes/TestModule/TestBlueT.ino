@@ -1,3 +1,4 @@
+// test de la connexion bluetooth//
 #include<SoftwareSerial.h>
 #define RX 10
 #define TX 11
@@ -11,7 +12,7 @@ void setup() {
   delay(500);
 }
 
-void loop() {
+void loop() { //des commandes comme AT+NAME peuvent être rentrées et le module y répondra 
   // put your main code here, to run repeatedly:
 while(BlueT.available()){
   Serial.print(char(BlueT.read()));}
