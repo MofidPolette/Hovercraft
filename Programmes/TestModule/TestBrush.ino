@@ -2,7 +2,7 @@
  
 Servo esc;   // Création de l'objet permettant le contrôle de l'ESC
  
-int val = 0; // 
+int val = 0; 
  
 void setup() {
    esc.attach(9); // On attache l'ESC au port numérique 9 (port PWM obligatoire)
@@ -28,7 +28,7 @@ void loop() {
    if (Serial.available() > 0) {
       val = Serial.parseInt();   // lecture de la valeur passée par le port série
       Serial.println(val);
-      esc.write(val);            // 
+      esc.write(val);           
       delay(15);
       }
    }
