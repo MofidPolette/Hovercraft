@@ -9,26 +9,14 @@ void setup() {
   monServo.write(positionduServo); //se place en position "0"
 }
 
+
+
 void loop() {
- // // put your main code here, to run repeatedly:
- for(positionduServo = 0; positionduServo <= 40; positionduServo++){
+  // put your main code here, to run repeatedly:
+ for(positionduServo = 0; positionduServo <= 180; positionduServo++){
   monServo.write(positionduServo);
   delay(15);}
-  delay(1000);
-  
-  for(positionduServo = 40; positionduServo <= 80; positionduServo++){
+  for(positionduServo = 180; positionduServo >= 0; positionduServo--){
   monServo.write(positionduServo);
   delay(15);}
-  delay(1000);
-  
-  for(positionduServo = 80; positionduServo >=45; positionduServo--){
-  monServo.write(positionduServo);
-  delay(15);}
-  delay(1000);
-  
-  for(positionduServo = 45; positionduServo >0; positionduServo--){
-  monServo.write(positionduServo);
-  delay(15);}
-  delay(1000);
- }
- 
+}
