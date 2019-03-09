@@ -20,6 +20,7 @@
   OneWire oneWire(ONE_WIRE_BUS);
   DallasTemperature temp_sensor(&oneWire);
 #endif 
+double temp;
 
 // ------------------------------------------------------------ SETUP SECTION
 
