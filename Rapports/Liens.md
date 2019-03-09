@@ -33,3 +33,5 @@ Amélioration gouvernail ; https://youtu.be/KcasSY0N2hw
 Amélioration moteur pp ; https://youtu.be/WnuH5ROWdiE
 
 Amélioration planches gouvernail ; https://youtu.be/_2UBe6BtGgo
+
+Test Hydroglisseur avec RF ; https://youtu.be/Z19tR3KAb0E
