@@ -1,3 +1,6 @@
+//Test du moteur pas à pas avec le bluetooth//
+
+
 #include <Stepper.h>
 #include <SoftwareSerial.h>
 #define RX 10
