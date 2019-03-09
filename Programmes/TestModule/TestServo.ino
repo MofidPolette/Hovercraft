@@ -6,7 +6,7 @@ int positionduServo = 0;
 void setup() {
   // put your setup code here, to run once:
   monServo.attach(3);
-  monServo.write(positionduServo);
+  monServo.write(positionduServo); //se place en position "0"
 }
 
 void loop() {
