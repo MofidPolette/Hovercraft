@@ -51,7 +51,7 @@ delay(10);
 Serial.print(" Chanel 1 = ");
 Serial.print(V_chanel_1);
 
- positionduServo = (-0.106*V_chanel_1)+215; //équation permettant de transformer l'impulsion envoyée en degrés (selon                l'intervalle voulu)
+ positionduServo = (-0.106*V_chanel_1)+215; //équation permettant de transformer l'impulsion envoyée en degrés (selon l'intervalle voulu)
 Serial.print("   positionduServo =  ");
 Serial.println(positionduServo);
 monServo.write(positionduServo);
@@ -71,7 +71,7 @@ Serial.println(ESC);
 
 
 
-if ((ESC >40)&(ESC<110)){ // mesure de sécurité : on envoie à l'esc que des valeurs comprises entre 40 et 110 pur éviter la surchauffe su moteur
+if ((ESC >40)&(ESC<110)){ // mesure de sécurité : on envoie à l'esc que des valeurs comprises entre 40 et 110 pur éviter la surchauffe du moteur
      esc.write(ESC);  }
 
 }
