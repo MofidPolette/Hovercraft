@@ -7,7 +7,7 @@ float ESC = 0;
 float positionduServo = 0;
  
 
-int V_chanel_1 = 0, V_chanel_2 = 0, V_chanel_3 = 0;
+int V_chanel_1 = 0, V_chanel_3 = 0;
 int chanel_1 = 14, chanel_3 = 15; // connecter les pin des voies 1 et 3 de la carte radio aux entrées analogiques 14 et 15
 int lecture= 0;
 
